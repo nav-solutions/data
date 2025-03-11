@@ -12,5 +12,5 @@ and our application demos.
 - [Meteo](./MET) RINEX Files
 - [Navigation](./NAV) RINEX files
 - [Observation](./OBS) RINEX files
-- [SP3](./SP3) High precision Orbits for PPP
+- [SP3](./SP3) High precision Orbits + Clock for PPP
 - [High Precision Clock](./CLK) Products for PPP
