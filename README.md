@@ -8,6 +8,7 @@ and our application demos.
 - [BINEX](./BIN) so called "Binary" RINEX, for open-source real-time applications.
 - [CGGTTS](./CGGTTS) for Clock comparison
 - [CRINEX: Compressed RINEX](./CRNX) Observation files
+- [GPS](./GPS) and QZSS L1 C/A navigation messages
 - [IONEX](./IONEX) Ionosphere Maps
 - [Meteo](./MET) RINEX Files
 - [Navigation](./NAV) RINEX files
